@@ -1,0 +1,8 @@
+{
+  "name": "Smart Window Measurer",
+  "description": "AI-powered tool to measure window dimensions from photos with easy sharing and data tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
